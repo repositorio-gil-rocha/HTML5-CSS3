@@ -1,9 +1,8 @@
 # HTML5-CSS
  Conceitos Básicos de HTML5 e CSS
 
-|-----------------------------------------------------------------------|
 |                         Leia com atenção!                             |
-|-----------------------------------------------------------------------|
+
 
 
 1. O objetivo deste site é apenas demonstrar o conhecimento básico em HTML5 e CSS3
