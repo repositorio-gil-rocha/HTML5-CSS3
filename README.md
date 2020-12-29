@@ -1,7 +1,7 @@
 # HTML5-CSS
  Conceitos Básicos de HTML5 e CSS
 
-|                         Leia com atenção!                             |
+# Leia com atenção! 
 
 
 
